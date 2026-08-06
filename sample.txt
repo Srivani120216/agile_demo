@@ -1,1 +1,1 @@
-Configuration of git and github
+Configuration of git and github 
